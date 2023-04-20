@@ -24,6 +24,7 @@ USER-AGENT,TikTok*,PROXY
 ^(https?:\/\/(tnc|dm)[\w-]+\.\w+\.com\/.+)(\?)(.+) $1$4 302
 (?<=\d\/\?\w{7}_\w{4}=)1[6-9]..(?=.?.?&) 18.4 307
 (?<=eme\/v)2(?=\/f\w{2}d\/\?.*) 1 302
+(?<=store-country-code=)cn us 307
 
 [MITM]
 hostname = *.tiktokv.com,*.byteoversea.com,*.tik-tokapi.com,-*snssdk.com,-*amemv.com
