@@ -26,4 +26,4 @@ USER-AGENT,TikTok*,PROXY
 (?<=eme\/v)2(?=\/f\w{2}d\/\?.*) 1 302
 
 [MITM]
-hostname = *.tiktokv.com,*.byteoversea.com,*.tik-tokapi.com
+hostname = *.tiktokv.com,*.byteoversea.com,*.tik-tokapi.com,-*snssdk.com,-*amemv.com
