@@ -1,6 +1,6 @@
 纯搬运，搬运自以下网址：
 https://github.com/Semporia/TikTok-Unlock/blob/master/Loon/TikTok-US.plugin
-因自有需求，修改了部分脚本内容
+因自有需求，修改了部分脚本内容，特别感谢原作者@Semporia
 # iPhone （免拔卡）解锁 TikTok + 换区 + 发布视频 + 直播 + 点赞评论
 
 > 目录
@@ -254,6 +254,7 @@ https://raw.githubusercontent.com/Semporia/TikTok-Unlock/master/Shadowrocket/Tik
 
 * [教程](https://semporia.github.io/iTunes.html)
 * [备用地址](https://semporia.blogspot.com/2022/06/tiktok-2110.html)
+* 教程中有一个关键点没有提到，抓包降级工具目录只能英文名。
 
 ---
 ### <a id="抖音"> 抖音無法觀看 </a>
