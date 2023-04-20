@@ -1,8 +1,8 @@
 #!name=TikTok US
-#!desc=解锁 TikTok 美國 地区
-#!openUrl=https://github.com/Semporia/TikTok-Unlock
+#!desc=解锁 TikTok 美國 地区 老姚自己修改改版
+#!openUrl=https://github.com/neospherez/Loon
 #!author=Semporia
-#!homepage=https://github.com/Semporia/TikTok-Unlock
+#!homepage=https://github.com/neospherez/Loon
 #!icon= https://raw.githubusercontent.com/Semporia/Hand-Painted-icon/master/Social_Media/TikTok.png
 
 [Rule]
