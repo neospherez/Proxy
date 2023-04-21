@@ -1,6 +1,7 @@
 纯搬运，搬运自以下网址：
 https://github.com/Semporia/TikTok-Unlock/blob/master/Loon/TikTok-US.plugin
-# 因Loon版本升级，代码内容需要调整，修改了部分脚本内容，纯自用，不提供任何形式的技术支持。特别感谢原作者@Semporia
+https://github.com/KOP-XIAO/
+# 个人需求 代码内容调整，修改了部分脚本内容，纯自用，不提供任何形式的技术支持。特别感谢@Semporia、@KOP-XIAO
 # iPhone （免拔卡）解锁 TikTok + 换区 + 发布视频 + 直播 + 点赞评论
 
 > 目录
