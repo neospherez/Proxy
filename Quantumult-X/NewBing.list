@@ -2,5 +2,6 @@
 HOST-SUFFIX,bing.com
 HOST-SUFFIX,tiktokv.com
 HOST-KEYWORD,bing
+HOST-KEYWORD,Swiftkey
 USER-AGENT,Bing*
 USER-AGENT,Swiftkey*
