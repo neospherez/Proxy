@@ -2,6 +2,7 @@
 HOST-SUFFIX,bing.com,AI
 HOST-SUFFIX,openai.com,AI
 HOST-SUFFIX,ai.com,AI
+HOST-SUFFIX,swiftkey.com,AI
 HOST-KEYWORD,bing,AI
 HOST-KEYWORD,openai,AI
 HOST-KEYWORD,gpt,AI
