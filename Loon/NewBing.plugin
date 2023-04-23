@@ -1,0 +1,7 @@
+#!name=NewBing
+#!新必应解锁任意浏览器
+#!openUrl=https://github.com/neospherez/Loon
+#!author=neospherez
+
+[Rewrite]
+^https:\/\/www\.bing\.com\/(search|new) header-replace User-Agent (\r\nUser-Agent:.+?)\w+\/[\d\.]+(\r\n) header-replace $1AppleWebKit/537.36 Chrome/110.0 Safari/537.36 Edg/110.0$2
