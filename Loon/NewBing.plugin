@@ -7,8 +7,7 @@
 URL-REGEX,^https:\/\/www\.bing\.com\/(search|new),PROXY
 
 [Rewrite]
-# ^https:\/\/www\.bing\.com\/(search|new) header-replace ((\r\nUser-Agent:.+?)\w+\/[\d\.]+(\r\n)) $1AppleWebKit/537.36 Chrome/110.0 Safari/537.36 Edg/110.0$2
-^https://bing.com header-replace User-Agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.58
+^https:\/\/www\.bing\.com\/(search|new) header-replace User-Agent AppleWebKit/537.36 Chrome/110.0.0.0 Safari/537.36 Edg/110.0 (iPhone; CPU iPhone OS 16_3_1 like Mac OS X)
 
 [MITM]
 hostname=*bing.com
