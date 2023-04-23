@@ -8,6 +8,3 @@ URL-REGEX,^https:\/\/.*\.bing\.com\/(search|new),PROXY
 
 [Rewrite]
 (^https:\/\/.*\.bing\.com\/(search|new)) header-replace User-Agent AppleWebKit/537.36 Chrome/110.0.0.0 Safari/537.36 Edg/110.0 (iPhone; CPU iPhone OS 16_3_1 like Mac OS X)
-
-[MITM]
-hostname=*bing.com
