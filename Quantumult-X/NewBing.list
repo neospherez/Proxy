@@ -1,0 +1,6 @@
+# NewBing
+HOST-SUFFIX,bing.com
+HOST-SUFFIX,tiktokv.com
+HOST-KEYWORD,bing
+USER-AGENT,Bing*
+USER-AGENT,Swiftkey*
