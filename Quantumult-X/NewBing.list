@@ -1,6 +1,0 @@
-# NewBing
-HOST-SUFFIX,bing.com,NewBing
-HOST-KEYWORD,bing,NewBing
-HOST-KEYWORD,Swiftkey,NewBing
-USER-AGENT,Bing*,NewBing
-USER-AGENT,Swiftkey*,NewBing
