@@ -1,7 +1,7 @@
 # NewBing
-HOST-SUFFIX,bing.com
-HOST-SUFFIX,tiktokv.com
-HOST-KEYWORD,bing
-HOST-KEYWORD,Swiftkey
-USER-AGENT,Bing*
-USER-AGENT,Swiftkey*
+HOST-SUFFIX,bing.com,NewBing
+HOST-SUFFIX,tiktokv.com,NewBing
+HOST-KEYWORD,bing,NewBing
+HOST-KEYWORD,Swiftkey,NewBing
+USER-AGENT,Bing*,NewBing
+USER-AGENT,Swiftkey*,NewBing
