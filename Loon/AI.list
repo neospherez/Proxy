@@ -1,11 +1,13 @@
 # NAME: AI
 
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,withgoogle.com
 DOMAIN-SUFFIX,swiftkey.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,bing.com
+DOMAIN-KEYWORD,-sentry-io
 DOMAIN-KEYWORD,-ai-com
 DOMAIN-KEYWORD,-google-com
 DOMAIN-KEYWORD,-withgoogle-com
