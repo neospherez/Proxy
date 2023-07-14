@@ -1,4 +1,6 @@
 # AI
+HOST-SUFFIX,claude.ai,AI
+HOST-SUFFIX,anthropic.com,AI
 HOST-SUFFIX,google.com,AI
 HOST-SUFFIX,sentry.io,AI
 HOST-SUFFIX,withgoogle.com,AI
