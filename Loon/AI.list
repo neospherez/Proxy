@@ -20,3 +20,4 @@ DOMAIN-KEYWORD,-openai-com
 DOMAIN-KEYWORD,-swiftkey-com
 USER-AGENT,bing*
 USER-AGENT,SwiftKey*
+USER-AGENT,Gemini*
