@@ -18,6 +18,7 @@ DOMAIN-KEYWORD,-withgoogle-com
 DOMAIN-KEYWORD,-bing-com
 DOMAIN-KEYWORD,-openai-com
 DOMAIN-KEYWORD,-swiftkey-com
+DOMAIN-KEYWORD,-gemini-com
 USER-AGENT,bing*
 USER-AGENT,SwiftKey*
 USER-AGENT,Gemini*
