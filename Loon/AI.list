@@ -21,7 +21,9 @@ DOMAIN-KEYWORD,-openai-com
 DOMAIN-KEYWORD,-swiftkey-com
 DOMAIN-KEYWORD,-gemini-com
 DOMAIN-KEYWORD,-chatgpt-com
+DOMAIN-KEYWORD,-notebooklm-com
 USER-AGENT,bing*
 USER-AGENT,SwiftKey*
 USER-AGENT,Gemini*
 USER-AGENT,chatgpt*
+USER-AGENT,notebooklm*
