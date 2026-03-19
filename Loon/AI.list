@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,withgoogle.com
 DOMAIN-SUFFIX,swiftkey.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-KEYWORD,-claude-ai
 DOMAIN-KEYWORD,-anthropic-com
 DOMAIN-KEYWORD,-sentry-io
@@ -19,6 +20,8 @@ DOMAIN-KEYWORD,-bing-com
 DOMAIN-KEYWORD,-openai-com
 DOMAIN-KEYWORD,-swiftkey-com
 DOMAIN-KEYWORD,-gemini-com
+DOMAIN-KEYWORD,-chatgpt-com
 USER-AGENT,bing*
 USER-AGENT,SwiftKey*
 USER-AGENT,Gemini*
+USER-AGENT,chatgpt*
